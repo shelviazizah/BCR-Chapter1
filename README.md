@@ -11,4 +11,4 @@ This project is about implementation of HTML, CSS, and Bootstrap
 ## How To Run 
 
 1. Open index.html in your web browser (e.g Chrome or firefox)
-2. To check the responsive design click 
+2. To check the responsive design, can minimize the screen 
